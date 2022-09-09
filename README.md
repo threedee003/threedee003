@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on explainable AI.
+- 🌱 I’m currently learning data structures and algorithms.
+- 📫 How to reach me: (dhartribikram@gmail.com)[dhartribikram@gmail.com]
 <!--
 **threedee003/threedee003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
