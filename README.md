@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 
 
-![Tribikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=threedee003&count_private=true)
+![Tribikram's GitHub stats]([https://github-readme-stats.vercel.app/api?](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?)username=threedee003&count_private=true)
