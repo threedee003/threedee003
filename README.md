@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 
 
-![Tribikram's github stats](https://github-readme-stats.vercel.app/api?username=threedee003&theme=algolia)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
