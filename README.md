@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Tribikram's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=threedee003&show_icons=true&theme=radical)
+
+
+## 💻 Workspace Spec
