@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on explainable AI.
+<!-- 🔭 I’m currently working on explainable AI.-->
 - 🌱 I’m currently learning data structures and algorithms.
 - 📫 How to reach me: [dhartribikram@gmail.com](mailto:dhartribikram@gmail.com)
 - 👯 I’m looking to collaborate on explainable Deep Learning.
