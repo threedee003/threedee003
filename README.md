@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Tribikram's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=threedee003&show_icons=true&theme=radical)
+<!-- ![Tribikram's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=threedee003&show_icons=true&theme=radical)
 
-
+-->
 ## 💻 Workspace Specs
 
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
