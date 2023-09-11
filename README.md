@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!-- 🔭 I’m currently working on explainable AI.-->
-- 🌱 I’m currently working as a Researcher in TCS Research and Innovation Labs. Smart Machines and Automation group, working on robotics and deep reinforcement learning.
+- 🌱 I’m currently working as a Researcher in TCS Research and Innovation Labs. Smart Machines and Automation group, focusing on robotics and deep reinforcement learning.
 - 📫 How to reach me: [dhartribikram@gmail.com](mailto:dhartribikram@gmail.com)
 <!--
 **threedee003/threedee003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
