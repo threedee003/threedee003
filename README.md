@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- ![Tribikram's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=threedee003&show_icons=true&theme=radical)
+[Tribikram's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=threedee003&show_icons=true&theme=radical)
 
 -->
 ## 💻 Workspace Specs
@@ -47,11 +47,3 @@ Here are some ideas to get you started:
 
 
 
-
-  
-![](https://github-readme-activity-graph.vercel.app/graph?username=threeedee003&custom_title=Raisa%27s%20GitHub%20Activity%20Graph&bg_color=faedca&color=f2242b&line=f2242b&point=f2242b&area=true&hide_border=false)
-<div>  
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=threedee003&show_icons=true&locale=en&theme=moltack" alt="threedee003" /></p>
-</div>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=threedee003&theme=gruvbox-light" alt="threedee003" align="right" /></p>
