@@ -44,3 +44,14 @@ Here are some ideas to get you started:
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+
+
+
+  
+![](https://github-readme-activity-graph.vercel.app/graph?username=threeedee003&custom_title=Raisa%27s%20GitHub%20Activity%20Graph&bg_color=faedca&color=f2242b&line=f2242b&point=f2242b&area=true&hide_border=false)
+<div>  
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=threedee003&show_icons=true&locale=en&theme=moltack" alt="threedee003" /></p>
+</div>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=threedee003&theme=gruvbox-light" alt="threedee003" align="right" /></p>
