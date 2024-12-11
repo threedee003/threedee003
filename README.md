@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!---[Tribikram's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=threedee003&show_icons=true&theme=radical)
 -->
 
-## 💻 Workspace Specs
+<!--## 💻 Workspace Specs
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Nvidia](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
